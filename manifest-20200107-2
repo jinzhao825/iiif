@@ -6753,15 +6753,6 @@
 			]
 		}
 	],
-	"structures": [
-        {
-			"@id": "https://iiif.jinzhao.tech/iiif/2/range-1",
-			"@type": "sc:Range",
-			"label": "封面",
-			"canvases": [
-				"http://766f8ebd-01b3-433a-ab61-70791ad2ccd7/"
-			]
-		},
-    ],
+	"structures": [],
 	"viewingDirection": "left-to-right"
 }
