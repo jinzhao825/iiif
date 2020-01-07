@@ -359,7 +359,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://c050aace-d689-4a02-82df-1388274d5610",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/6",
 					"@type": "sc:Canvas",
 					"label": "6",
 					"height": 2540,
@@ -427,7 +427,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://6435c70b-d153-41c6-9aaf-038578b0e554",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/7",
 					"@type": "sc:Canvas",
 					"label": "7",
 					"height": 2540,
@@ -495,7 +495,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://13d0dc1f-b03e-40a4-a275-e5f06bb70707",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/8",
 					"@type": "sc:Canvas",
 					"label": "8",
 					"height": 2540,
@@ -563,7 +563,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://760a690b-c0be-46a7-ae6a-9c738d8b5258",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/9",
 					"@type": "sc:Canvas",
 					"label": "9",
 					"height": 2540,
@@ -631,7 +631,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://1f0fe4b9-8809-44d8-a906-5a61df429cd5",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/10",
 					"@type": "sc:Canvas",
 					"label": "10",
 					"height": 2540,
@@ -699,7 +699,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://f3624d7b-2697-4459-a4aa-490f2f3a2332",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/11",
 					"@type": "sc:Canvas",
 					"label": "11",
 					"height": 2540,
@@ -767,7 +767,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://197f40de-1450-4177-8dfe-c19ab7f73c80",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/12",
 					"@type": "sc:Canvas",
 					"label": "12",
 					"height": 2540,
@@ -835,7 +835,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://0efe7d21-9afd-43c4-99d1-c1bc8f336a0c",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/13",
 					"@type": "sc:Canvas",
 					"label": "13",
 					"height": 2540,
@@ -903,7 +903,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://306fd7f9-9d56-4c65-8354-72b8427a533e",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/14",
 					"@type": "sc:Canvas",
 					"label": "14",
 					"height": 2540,
@@ -971,7 +971,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://6985a942-c82c-495d-bc65-ab5357aaf187",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/15",
 					"@type": "sc:Canvas",
 					"label": "15",
 					"height": 2540,
@@ -1039,7 +1039,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://ce09ac75-9fe4-4706-aca6-01a40130a18a",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/16",
 					"@type": "sc:Canvas",
 					"label": "16",
 					"height": 2540,
@@ -1048,74 +1048,6 @@
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
 							"@id": "http://e658424a-76bf-49bb-8468-65a3457a7c2e",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/15.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/15.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://ce09ac75-9fe4-4706-aca6-01a40130a18a"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://7d6868ac-1ac8-44ff-a2f3-be9f40c9bef1",
-					"@type": "sc:Canvas",
-					"label": "17",
-					"height": 2540,
-					"width": 1730,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://54b95df2-5a46-4439-8e6f-285a6ac169ef",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -1169,15 +1101,15 @@
 								"height": 2540,
 								"width": 1730
 							},
-							"on": "http://7d6868ac-1ac8-44ff-a2f3-be9f40c9bef1"
+							"on": "http://ce09ac75-9fe4-4706-aca6-01a40130a18a"
 						}
 					],
 					"related": ""
-				},
-				{
-					"@id": "http://09abca45-27f4-4b4a-8376-949cc65f05a8",
+                },
+                {
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/17",
 					"@type": "sc:Canvas",
-					"label": "18",
+					"label": "17",
 					"height": 2540,
 					"width": 1730,
 					"images": [
@@ -1241,17 +1173,17 @@
 						}
 					],
 					"related": ""
-				},
+                },
 				{
-					"@id": "http://a68d18b8-8165-4a5d-8a86-c0fa9f08c089",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/18",
 					"@type": "sc:Canvas",
-					"label": "19",
+					"label": "18",
 					"height": 2540,
 					"width": 1730,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://03aff17a-91c5-4437-8e42-6856afb27da2",
+							"@id": "http://fc8cbe2c-97fc-436c-be5e-91e4dd7a1f35",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -1305,15 +1237,16 @@
 								"height": 2540,
 								"width": 1730
 							},
-							"on": "http://a68d18b8-8165-4a5d-8a86-c0fa9f08c089"
+							"on": "http://09abca45-27f4-4b4a-8376-949cc65f05a8"
 						}
 					],
 					"related": ""
-				},
+                },
+               
 				{
-					"@id": "http://a32415a9-eec6-4a90-955e-305cf6413c84",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/19",
 					"@type": "sc:Canvas",
-					"label": "20",
+					"label": "19",
 					"height": 2540,
 					"width": 1730,
 					"images": [
@@ -1379,9 +1312,9 @@
 					"related": ""
 				},
 				{
-					"@id": "http://b857c3a2-eb89-443c-81d2-21b782dd7cf4",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/20",
 					"@type": "sc:Canvas",
-					"label": "21",
+					"label": "20",
 					"height": 2540,
 					"width": 1730,
 					"images": [
@@ -1447,9 +1380,9 @@
 					"related": ""
 				},
 				{
-					"@id": "http://4a8dbfd9-3545-4ffb-9d5e-11472d2b77ce",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/21",
 					"@type": "sc:Canvas",
-					"label": "22",
+					"label": "21",
 					"height": 2540,
 					"width": 1730,
 					"images": [
@@ -1515,9 +1448,9 @@
 					"related": ""
 				},
 				{
-					"@id": "http://a9339154-64bb-4421-815e-6c73c5a4d063",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/22",
 					"@type": "sc:Canvas",
-					"label": "23",
+					"label": "22",
 					"height": 2540,
 					"width": 1730,
 					"images": [
@@ -1583,7 +1516,75 @@
 					"related": ""
 				},
 				{
-					"@id": "http://f5031230-409b-47c9-82de-3fcebe1c6836",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/23",
+					"@type": "sc:Canvas",
+					"label": "23",
+					"height": 2540,
+					"width": 1730,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://205e1a4b-414a-4d1d-b764-0ad5bb015922",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.jinzhao.tech/iiif/2/23.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/23.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"sizeByW",
+												"regionByPx",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2540,
+								"width": 1730
+							},
+							"on": "http://f5031230-409b-47c9-82de-3fcebe1c6836"
+						}
+					],
+					"related": ""
+                },
+                {
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/24",
 					"@type": "sc:Canvas",
 					"label": "24",
 					"height": 2540,
@@ -1651,7 +1652,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://182e242e-45a7-4b77-9fb7-6d9ede3a90c0",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/25",
 					"@type": "sc:Canvas",
 					"label": "25",
 					"height": 2540,
@@ -1719,7 +1720,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://a72130dc-16eb-45a7-872a-429db49b5c8c",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/26",
 					"@type": "sc:Canvas",
 					"label": "26",
 					"height": 2540,
@@ -1731,12 +1732,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/25.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.jinzhao.tech/iiif/2/26.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/25.jpg",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/26.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
@@ -1787,7 +1788,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://343cfe11-23b8-41d8-98e6-a0ecd6b88e9f",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/27",
 					"@type": "sc:Canvas",
 					"label": "27",
 					"height": 2540,
@@ -1855,7 +1856,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://320d0f6c-be93-49b8-95fd-73c4083436cb",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/28",
 					"@type": "sc:Canvas",
 					"label": "28",
 					"height": 2540,
@@ -1923,7 +1924,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://421a6f9c-cc78-491a-a8dd-bbd762493639",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/29",
 					"@type": "sc:Canvas",
 					"label": "29",
 					"height": 2540,
@@ -1991,7 +1992,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://2d61028a-b003-4b6a-a7e6-f8d36c0755f9",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/30",
 					"@type": "sc:Canvas",
 					"label": "30",
 					"height": 2540,
@@ -2059,7 +2060,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://c4fae706-fe0b-48f0-9277-384a5c765b03",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/31",
 					"@type": "sc:Canvas",
 					"label": "31",
 					"height": 2540,
@@ -2127,7 +2128,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://c0287736-50e5-412d-a175-9e06b57d1f4c",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/32",
 					"@type": "sc:Canvas",
 					"label": "32",
 					"height": 2540,
@@ -2195,7 +2196,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://4605cbd9-bfe4-4ddb-8ab9-09b5180fd8eb",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/33",
 					"@type": "sc:Canvas",
 					"label": "33",
 					"height": 2540,
@@ -2263,7 +2264,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://53220c29-dbb1-44ef-90f5-6b7c1420f460",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/34",
 					"@type": "sc:Canvas",
 					"label": "34",
 					"height": 2540,
@@ -2331,7 +2332,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://c51e8e21-3893-4831-a336-e2bcdb9ee0e1",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/35",
 					"@type": "sc:Canvas",
 					"label": "35",
 					"height": 2540,
@@ -2399,7 +2400,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://052ca917-1eb7-4400-8bde-db9300b3f49a",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/36",
 					"@type": "sc:Canvas",
 					"label": "36",
 					"height": 2540,
@@ -2467,7 +2468,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://99264876-1870-4187-9ca8-c0d1de21e6b8",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/34",
 					"@type": "sc:Canvas",
 					"label": "37",
 					"height": 2540,
@@ -2535,7 +2536,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://0cbf15f2-7732-46b3-a0c2-045594bf238b",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/38",
 					"@type": "sc:Canvas",
 					"label": "38",
 					"height": 2540,
@@ -2603,7 +2604,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://9fa8be80-32f4-4a05-b542-648f8219cee5",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/39",
 					"@type": "sc:Canvas",
 					"label": "39",
 					"height": 2540,
@@ -2671,7 +2672,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://3f9497f4-db95-4863-8767-063e52fa3367",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/40",
 					"@type": "sc:Canvas",
 					"label": "40",
 					"height": 2540,
@@ -2739,7 +2740,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://e66a9ec5-ef11-45ca-a6fa-e74f43eb2cd5",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/41",
 					"@type": "sc:Canvas",
 					"label": "41",
 					"height": 2540,
@@ -2807,7 +2808,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://acaae4dc-08f5-4dea-a9b6-2b8b2ba37015",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/42",
 					"@type": "sc:Canvas",
 					"label": "42",
 					"height": 2540,
@@ -2816,74 +2817,6 @@
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
 							"@id": "http://7a99adcd-d61d-4baf-aebc-1771581ad3a6",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/41.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/41.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://acaae4dc-08f5-4dea-a9b6-2b8b2ba37015"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://56987408-7820-42ec-8086-96920e10781c",
-					"@type": "sc:Canvas",
-					"label": "43",
-					"height": 2540,
-					"width": 1730,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://9ec71adb-d00d-4ea6-b31e-308099bc6691",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -2937,13 +2870,14 @@
 								"height": 2540,
 								"width": 1730
 							},
-							"on": "http://56987408-7820-42ec-8086-96920e10781c"
+							"on": "http://acaae4dc-08f5-4dea-a9b6-2b8b2ba37015"
 						}
 					],
 					"related": ""
 				},
+				
 				{
-					"@id": "http://575503d9-24ec-434b-bd39-07a37912ed96",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/43",
 					"@type": "sc:Canvas",
 					"label": "44",
 					"height": 2540,
@@ -3009,9 +2943,77 @@
 						}
 					],
 					"related": ""
+                },
+                {
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/44",
+					"@type": "sc:Canvas",
+					"label": "44",
+					"height": 2540,
+					"width": 1689,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c8b169b8-3516-445f-9a4d-50f3f3c99d05",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.jinzhao.tech/iiif/2/44.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/44.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"sizeByW",
+												"regionByPx",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2540,
+								"width": 1689
+							},
+							"on": "http://b320e06d-a1e0-46fb-bf76-27ace93d7ea8"
+						}
+					],
+					"related": ""
 				},
 				{
-					"@id": "http://b320e06d-a1e0-46fb-bf76-27ace93d7ea8",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/45",
 					"@type": "sc:Canvas",
 					"label": "45",
 					"height": 2540,
@@ -3079,7 +3081,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://226bd413-51f4-4ea0-b14f-1b0c1538a3fa",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/46",
 					"@type": "sc:Canvas",
 					"label": "46",
 					"height": 2540,
@@ -3147,7 +3149,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://ee07fe49-be68-4002-8808-808e37caeba3",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/47",
 					"@type": "sc:Canvas",
 					"label": "47",
 					"height": 2540,
@@ -3215,7 +3217,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://e4252357-ca00-40e5-b60e-424e673eace6",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/48",
 					"@type": "sc:Canvas",
 					"label": "48",
 					"height": 2540,
@@ -3283,7 +3285,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://9b525a16-097c-49ad-a289-cdfe7528d97c",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/49",
 					"@type": "sc:Canvas",
 					"label": "49",
 					"height": 2540,
@@ -3351,7 +3353,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://628622a8-2720-48e6-8d44-40972614c398",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/50",
 					"@type": "sc:Canvas",
 					"label": "50",
 					"height": 2540,
@@ -3419,7 +3421,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://994b48ef-b59f-4ce7-8999-764563b4a7f3",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/51",
 					"@type": "sc:Canvas",
 					"label": "51",
 					"height": 2540,
@@ -3428,74 +3430,6 @@
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
 							"@id": "http://337b2778-1bd7-4810-bee9-6559b3bb25bb",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/50.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/50.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://994b48ef-b59f-4ce7-8999-764563b4a7f3"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://eb34fdbc-7070-4625-9e76-e430f88bcca3",
-					"@type": "sc:Canvas",
-					"label": "52",
-					"height": 2540,
-					"width": 1689,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://9c9c8aff-2c6f-4809-a6eb-594bc10ae3a3",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -3547,6 +3481,74 @@
 									]
 								},
 								"height": 2540,
+								"width": 1730
+							},
+							"on": "http://994b48ef-b59f-4ce7-8999-764563b4a7f3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/52",
+					"@type": "sc:Canvas",
+					"label": "52",
+					"height": 2540,
+					"width": 1689,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9c9c8aff-2c6f-4809-a6eb-594bc10ae3a3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.jinzhao.tech/iiif/2/52.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/52.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"sizeByW",
+												"regionByPx",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2540,
 								"width": 1689
 							},
 							"on": "http://eb34fdbc-7070-4625-9e76-e430f88bcca3"
@@ -3555,7 +3557,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://12159cbc-f499-4b29-9b64-93e6a3414f9c",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/53",
 					"@type": "sc:Canvas",
 					"label": "53",
 					"height": 2540,
@@ -3623,7 +3625,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://86850c30-79ac-4d53-9d65-602bfba15144",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/54",
 					"@type": "sc:Canvas",
 					"label": "54",
 					"height": 2540,
@@ -3691,7 +3693,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://9cd59d0d-db53-4e15-8658-045a53181d38",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/55",
 					"@type": "sc:Canvas",
 					"label": "55",
 					"height": 2540,
@@ -3759,7 +3761,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://8ffbef59-128f-463a-95aa-91717be01c0d",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/56",
 					"@type": "sc:Canvas",
 					"label": "56",
 					"height": 2540,
@@ -3827,7 +3829,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://16013c98-a2a0-4f4e-a90d-898e39f2c542",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/57",
 					"@type": "sc:Canvas",
 					"label": "57",
 					"height": 2540,
@@ -3895,7 +3897,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://04243650-d506-4f34-ab8d-898d4975a579",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/58",
 					"@type": "sc:Canvas",
 					"label": "58",
 					"height": 2540,
@@ -3963,7 +3965,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://857484ce-8580-48d2-a5c9-fa73f9f30b79",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/59",
 					"@type": "sc:Canvas",
 					"label": "59",
 					"height": 2540,
@@ -4031,7 +4033,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://4622ac95-38e7-45da-b1c4-a3085fb127a1",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/60",
 					"@type": "sc:Canvas",
 					"label": "60",
 					"height": 2540,
@@ -4099,7 +4101,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://6f47cde2-6ed9-4912-9c09-16e39ee6bbb7",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/61",
 					"@type": "sc:Canvas",
 					"label": "61",
 					"height": 2540,
@@ -4167,7 +4169,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://71f51495-c144-4464-b5fd-c68c1e69d3cc",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/62",
 					"@type": "sc:Canvas",
 					"label": "62",
 					"height": 2540,
@@ -4235,7 +4237,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://79eba747-f00f-48bc-9194-fd4cc4f5a140",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/63",
 					"@type": "sc:Canvas",
 					"label": "63",
 					"height": 2540,
@@ -4303,7 +4305,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://006a8f2c-74ff-4f45-8a3f-6ccc8f0d5647",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/64",
 					"@type": "sc:Canvas",
 					"label": "64",
 					"height": 2540,
@@ -4371,7 +4373,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://6d2b4731-6f46-49d0-b16f-e4b336512d3a",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/65",
 					"@type": "sc:Canvas",
 					"label": "65",
 					"height": 2540,
@@ -4439,7 +4441,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://1b1d3870-7867-4df8-8edf-ee3dcd530a16",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/66",
 					"@type": "sc:Canvas",
 					"label": "66",
 					"height": 2540,
@@ -4448,74 +4450,6 @@
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
 							"@id": "http://6405e2d2-e48c-441b-aaf4-08d8bf21f68b",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/65.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/65.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1689
-							},
-							"on": "http://1b1d3870-7867-4df8-8edf-ee3dcd530a16"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://7d73b9ce-422e-4108-85d3-d1501e0bfce9",
-					"@type": "sc:Canvas",
-					"label": "67",
-					"height": 2540,
-					"width": 1730,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://a5861de5-3106-47af-92e3-74d0f1bcd344",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -4567,23 +4501,23 @@
 									]
 								},
 								"height": 2540,
-								"width": 1730
+								"width": 1689
 							},
-							"on": "http://7d73b9ce-422e-4108-85d3-d1501e0bfce9"
+							"on": "http://1b1d3870-7867-4df8-8edf-ee3dcd530a16"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://10251ab6-4007-43e9-9175-a827882a7768",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/67",
 					"@type": "sc:Canvas",
-					"label": "68",
+					"label": "67",
 					"height": 2540,
-					"width": 1689,
+					"width": 1730,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://a10d8cb6-3e2b-4614-b38b-3feeb84b7604",
+							"@id": "http://a5861de5-3106-47af-92e3-74d0f1bcd344",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -4635,6 +4569,74 @@
 									]
 								},
 								"height": 2540,
+								"width": 1730
+							},
+							"on": "http://7d73b9ce-422e-4108-85d3-d1501e0bfce9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/68",
+					"@type": "sc:Canvas",
+					"label": "68",
+					"height": 2540,
+					"width": 1689,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a10d8cb6-3e2b-4614-b38b-3feeb84b7604",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.jinzhao.tech/iiif/2/68.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/68.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"sizeByW",
+												"regionByPx",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2540,
 								"width": 1689
 							},
 							"on": "http://10251ab6-4007-43e9-9175-a827882a7768"
@@ -4643,7 +4645,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://5871651d-606b-439d-8e7e-8b22f9fdb219",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/69",
 					"@type": "sc:Canvas",
 					"label": "69",
 					"height": 2540,
@@ -4711,7 +4713,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://c9a3ad2a-ba1d-457f-a2dc-ea83063d0508",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/70",
 					"@type": "sc:Canvas",
 					"label": "70",
 					"height": 2540,
@@ -4779,7 +4781,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://fd07f664-a1b1-40a8-8a46-bace5ab20e22",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/71",
 					"@type": "sc:Canvas",
 					"label": "71",
 					"height": 2540,
@@ -4788,74 +4790,6 @@
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
 							"@id": "http://6cd3a3e6-a363-4648-abff-01ebff80a713",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/70.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/70.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://fd07f664-a1b1-40a8-8a46-bace5ab20e22"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://dfd2d85a-fb20-4c11-9d41-34aa805a57b5",
-					"@type": "sc:Canvas",
-					"label": "72",
-					"height": 2540,
-					"width": 1689,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://535ff161-876f-4a18-a9ca-7c02b1504bb7",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -4907,23 +4841,23 @@
 									]
 								},
 								"height": 2540,
-								"width": 1689
+								"width": 1730
 							},
-							"on": "http://dfd2d85a-fb20-4c11-9d41-34aa805a57b5"
+							"on": "http://fd07f664-a1b1-40a8-8a46-bace5ab20e22"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://a7bdded0-1af9-4a26-9bf0-6437d9e4c947",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/72",
 					"@type": "sc:Canvas",
-					"label": "73",
+					"label": "72",
 					"height": 2540,
-					"width": 1730,
+					"width": 1689,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://e856645c-05ed-4430-af78-567a7a3ec84b",
+							"@id": "http://535ff161-876f-4a18-a9ca-7c02b1504bb7",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -4975,6 +4909,74 @@
 									]
 								},
 								"height": 2540,
+								"width": 1689
+							},
+							"on": "http://dfd2d85a-fb20-4c11-9d41-34aa805a57b5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/73",
+					"@type": "sc:Canvas",
+					"label": "73",
+					"height": 2540,
+					"width": 1730,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e856645c-05ed-4430-af78-567a7a3ec84b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.jinzhao.tech/iiif/2/73.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/73.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"sizeByW",
+												"regionByPx",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2540,
 								"width": 1730
 							},
 							"on": "http://a7bdded0-1af9-4a26-9bf0-6437d9e4c947"
@@ -4983,7 +4985,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://a3592a4e-e7dd-4ea4-bafc-de791206bcae",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/74",
 					"@type": "sc:Canvas",
 					"label": "74",
 					"height": 2540,
@@ -5051,7 +5053,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://9cb9e317-fe56-4706-a87e-38ac6cc2afe5",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/75",
 					"@type": "sc:Canvas",
 					"label": "75",
 					"height": 2540,
@@ -5119,7 +5121,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://83ef03a2-37bf-4118-a347-bd0a09be38be",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/76",
 					"@type": "sc:Canvas",
 					"label": "76",
 					"height": 2540,
@@ -5187,7 +5189,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://f56881f8-d8be-4ab8-961e-a7a321f37ffe",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/77",
 					"@type": "sc:Canvas",
 					"label": "77",
 					"height": 2540,
@@ -5255,7 +5257,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://a1748e49-b6ea-42d6-96a1-02192d802553",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/78",
 					"@type": "sc:Canvas",
 					"label": "78",
 					"height": 2540,
@@ -5323,7 +5325,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://171ace05-2cac-411c-9e14-06b4c4f4e4be",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/79",
 					"@type": "sc:Canvas",
 					"label": "79",
 					"height": 2540,
@@ -5335,12 +5337,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/78.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.jinzhao.tech/iiif/2/79.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/78.jpg",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/79.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
@@ -5391,7 +5393,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://130eb2db-d665-485b-aa8e-93ca30c8f600",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/80",
 					"@type": "sc:Canvas",
 					"label": "80",
 					"height": 2540,
@@ -5459,7 +5461,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://59871627-fabf-439d-af53-c7b595c7cdb1",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/81",
 					"@type": "sc:Canvas",
 					"label": "81",
 					"height": 2540,
@@ -5527,7 +5529,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://acc098ed-7d9a-4fa8-bc55-16492c71fcd1",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/82",
 					"@type": "sc:Canvas",
 					"label": "82",
 					"height": 2540,
@@ -5595,7 +5597,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://216d0b07-5119-4ec2-84cd-5aa97348eec5",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/83",
 					"@type": "sc:Canvas",
 					"label": "83",
 					"height": 2540,
@@ -5663,7 +5665,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://85e01baa-f40a-4881-a0fd-c188b41970d8",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/84",
 					"@type": "sc:Canvas",
 					"label": "84",
 					"height": 2540,
@@ -5731,7 +5733,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://4a026558-f899-48c7-a983-cd7af0986a18",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/85",
 					"@type": "sc:Canvas",
 					"label": "85",
 					"height": 2540,
@@ -5799,7 +5801,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://6d93ec02-25c2-4f59-a48f-f0acf846ef77",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/86",
 					"@type": "sc:Canvas",
 					"label": "86",
 					"height": 2540,
@@ -5867,7 +5869,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://87c47bf7-2acf-4f7c-9f70-7d16cebbd15a",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/87",
 					"@type": "sc:Canvas",
 					"label": "87",
 					"height": 2540,
@@ -5935,7 +5937,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://44871496-e90f-4368-8fb8-01c13200c7e6",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/88",
 					"@type": "sc:Canvas",
 					"label": "88",
 					"height": 2540,
@@ -6003,7 +6005,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://645f5c21-78a1-4db3-9e15-88728df55243",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/89",
 					"@type": "sc:Canvas",
 					"label": "89",
 					"height": 2540,
@@ -6012,74 +6014,6 @@
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
 							"@id": "http://b222f17a-4896-4da5-8017-819c84ebb81d",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/88.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/88.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://645f5c21-78a1-4db3-9e15-88728df55243"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://78a57d18-d5a5-430e-81ee-88e8b1e11fa1",
-					"@type": "sc:Canvas",
-					"label": "90",
-					"height": 2540,
-					"width": 1689,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://dd984211-8502-490f-8f8a-a042f38d169f",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -6131,6 +6065,74 @@
 									]
 								},
 								"height": 2540,
+								"width": 1730
+							},
+							"on": "http://645f5c21-78a1-4db3-9e15-88728df55243"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/90",
+					"@type": "sc:Canvas",
+					"label": "90",
+					"height": 2540,
+					"width": 1689,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dd984211-8502-490f-8f8a-a042f38d169f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.jinzhao.tech/iiif/2/90.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/90.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"sizeByW",
+												"regionByPx",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2540,
 								"width": 1689
 							},
 							"on": "http://78a57d18-d5a5-430e-81ee-88e8b1e11fa1"
@@ -6139,553 +6141,9 @@
 					"related": ""
 				},
 				{
-					"@id": "http://c935f2d6-db09-4a4b-925a-cfda0fd3fac1",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/91",
 					"@type": "sc:Canvas",
 					"label": "91",
-					"height": 2540,
-					"width": 1689,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ad28b1cd-82e1-4484-b5f9-f8eaed5dd9bb",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/91.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/91.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1689
-							},
-							"on": "http://c935f2d6-db09-4a4b-925a-cfda0fd3fac1"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://c13e8cd8-8eb7-436d-a2cd-a38a5ec1967a",
-					"@type": "sc:Canvas",
-					"label": "92",
-					"height": 2540,
-					"width": 1730,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://621b9dfa-e692-445e-8e16-698bdbc9a113",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/92.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/92.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://c13e8cd8-8eb7-436d-a2cd-a38a5ec1967a"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://c7ee15d7-f469-4aed-9311-f7cc3b6dc84e",
-					"@type": "sc:Canvas",
-					"label": "93",
-					"height": 2540,
-					"width": 1689,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://fe7a7ff1-e7ee-4612-904a-46ca80bc356e",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/93.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/93.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1689
-							},
-							"on": "http://c7ee15d7-f469-4aed-9311-f7cc3b6dc84e"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://54b9d2cc-d4b7-4c54-a320-f988b610e451",
-					"@type": "sc:Canvas",
-					"label": "94",
-					"height": 2540,
-					"width": 1730,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://8bdc686b-a471-49fe-a3c9-315812b8b192",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/94.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/94.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"tif",
-												"jpg",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://54b9d2cc-d4b7-4c54-a320-f988b610e451"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://debb0156-934d-49ed-a629-4ea5d31a007b",
-					"@type": "sc:Canvas",
-					"label": "95",
-					"height": 2540,
-					"width": 1730,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://439bc73d-e510-4ee6-91dd-a9a05bb32fdc",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/94.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/94.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://debb0156-934d-49ed-a629-4ea5d31a007b"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://db9ebdac-c747-4c4a-8804-8c3ec3cbca0d",
-					"@type": "sc:Canvas",
-					"label": "96",
-					"height": 2540,
-					"width": 1689,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b4037572-5d99-440c-9349-4f4d4c23c3b1",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/95.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/95.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1689
-							},
-							"on": "http://db9ebdac-c747-4c4a-8804-8c3ec3cbca0d"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://850f4ad8-9902-499f-a1a3-fdc39257ae56",
-					"@type": "sc:Canvas",
-					"label": "97",
-					"height": 2540,
-					"width": 1689,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://99505520-72ff-44d9-88ac-a06d14fb58cb",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/97.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/97.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1689
-							},
-							"on": "http://850f4ad8-9902-499f-a1a3-fdc39257ae56"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://abd474e0-5d14-4d33-8c95-fb311387ce9f",
-					"@type": "sc:Canvas",
-					"label": "98",
-					"height": 2540,
-					"width": 1730,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://64fa4dd6-01cf-4d2b-ac0a-e8757e68016c",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/98.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/98.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 400000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"sizeByW",
-												"regionByPx",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"sizeAboveFull",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2540,
-								"width": 1730
-							},
-							"on": "http://abd474e0-5d14-4d33-8c95-fb311387ce9f"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://5c814a2a-e787-463c-88c4-dc4c1764bc0a",
-					"@type": "sc:Canvas",
-					"label": "99",
 					"height": 2540,
 					"width": 1689,
 					"images": [
@@ -6695,12 +6153,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.jinzhao.tech/iiif/2/99.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.jinzhao.tech/iiif/2/91.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.jinzhao.tech/iiif/2/99.jpg",
+									"@id": "https://iiif.jinzhao.tech/iiif/2/91.jpg",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
@@ -6755,7 +6213,7 @@
 	],
 	"structures": [
         {
-			"@id": "https://iiif.jinzhao.tech/iiif/2/range-1",
+			"@id": "https://iiif.jinzhao.tech/iiif/range-1",
 			"@type": "sc:Range",
 			"label": "封面",
 			"canvases": [
@@ -6763,11 +6221,83 @@
 			]
         },
         {
-			"@id": "https://iiif.jinzhao.tech/iiif/2/range-2",
+			"@id": "https://iiif.jinzhao.tech/iiif/range-2",
 			"@type": "sc:Range",
-			"label": "目录",
+			"label": "王序",
 			"canvases": [
-				"https://iiif.jinzhao.tech/iiif/canvas/3"
+				"https://iiif.jinzhao.tech/iiif/canvas/7"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-3",
+			"@type": "sc:Range",
+			"label": "杨序",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/11"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-4",
+			"@type": "sc:Range",
+			"label": "陈序",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/17"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-5",
+			"@type": "sc:Range",
+			"label": "刘序",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/21"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-6",
+			"@type": "sc:Range",
+			"label": "放声集总序",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/27"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-7",
+			"@type": "sc:Range",
+			"label": "自序——集腋成裘，异中求同与百家争鸣的这本书",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/33"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-8",
+			"@type": "sc:Range",
+			"label": "目次",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/47"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-9",
+			"@type": "sc:Range",
+			"label": "一号作战对东亚大局之影响",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/49"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-10",
+			"@type": "sc:Range",
+			"label": "第一编 一号作战与缅战之研究",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/57"
+			]
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/range-11",
+			"@type": "sc:Range",
+			"label": "一场非战之时、非战之地的战役",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/59"
 			]
         }
     ],
