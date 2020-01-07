@@ -6753,6 +6753,16 @@
 			]
 		}
 	],
-	"structures": [],
+	"structures": [
+	{
+			"@id": "1234566dagh098542",
+			"@type": "sc:Range",
+			"label": "中间页",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/2/50.jpg",
+				"https://iiif.jinzhao.tech/iiif/2/51.jpg"
+			]
+		}
+	],
 	"viewingDirection": "left-to-right"
 }
