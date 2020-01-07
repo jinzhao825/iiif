@@ -19,7 +19,7 @@
 			"label": "Normal Sequence",
 			"canvases": [
 				{
-					"@id": "http://b269386e-d4e9-4ac5-8414-a860926a38fd",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/1",
 					"@type": "sc:Canvas",
 					"label": "1",
 					"height": 2540,
@@ -87,7 +87,7 @@
 					"related": "封面"
 				},
 				{
-					"@id": "http://a0f454df-f0a8-4687-b898-8eb697ecdf81",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/2",
 					"@type": "sc:Canvas",
 					"label": "2",
 					"height": 2540,
@@ -155,7 +155,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://f3ffdd56-23cd-466c-a7f6-068d66521605",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/3",
 					"@type": "sc:Canvas",
 					"label": "3",
 					"height": 2540,
@@ -223,7 +223,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://45a63e43-89eb-4eef-b995-9dbf94889b3c",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/4",
 					"@type": "sc:Canvas",
 					"label": "4",
 					"height": 2540,
@@ -291,7 +291,7 @@
 					"related": ""
 				},
 				{
-					"@id": "http://49491b06-4cbc-4b28-99a7-8cc1fc68a963",
+					"@id": "https://iiif.jinzhao.tech/iiif/canvas/5",
 					"@type": "sc:Canvas",
 					"label": "5",
 					"height": 2540,
@@ -3351,7 +3351,7 @@
 					"related": ""
 				},
 				{
-					"@id": "https://iiif.jinzhao.tech/iiif/2/50.jpg",
+					"@id": "http://628622a8-2720-48e6-8d44-40972614c398",
 					"@type": "sc:Canvas",
 					"label": "50",
 					"height": 2540,
@@ -3413,7 +3413,7 @@
 								"height": 2540,
 								"width": 1730
 							},
-							"on": "https://iiif.jinzhao.tech/iiif/2/50.jpg/canvas"
+							"on": "http://628622a8-2720-48e6-8d44-40972614c398"
 						}
 					],
 					"related": ""
@@ -3487,7 +3487,7 @@
 					"related": ""
 				},
 				{
-					"@id": "https://iiif.jinzhao.tech/iiif/2/51.jpg",
+					"@id": "http://eb34fdbc-7070-4625-9e76-e430f88bcca3",
 					"@type": "sc:Canvas",
 					"label": "52",
 					"height": 2540,
@@ -3549,7 +3549,7 @@
 								"height": 2540,
 								"width": 1689
 							},
-							"on": "https://iiif.jinzhao.tech/iiif/2/51.jpg/canvas"
+							"on": "http://eb34fdbc-7070-4625-9e76-e430f88bcca3"
 						}
 					],
 					"related": ""
@@ -6754,15 +6754,22 @@
 		}
 	],
 	"structures": [
-	{
-			"@id": "1234566dagh098542",
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/2/range-1",
 			"@type": "sc:Range",
-			"label": "中间页",
+			"label": "封面",
 			"canvases": [
-				"https://iiif.jinzhao.tech/iiif/2/50.jpg",
-				"https://iiif.jinzhao.tech/iiif/2/51.jpg"
+				"https://iiif.jinzhao.tech/iiif/canvas/1"
 			]
-		}
-	],
+        },
+        {
+			"@id": "https://iiif.jinzhao.tech/iiif/2/range-2",
+			"@type": "sc:Range",
+			"label": "目录",
+			"canvases": [
+				"https://iiif.jinzhao.tech/iiif/canvas/3"
+			]
+        }
+    ],
 	"viewingDirection": "left-to-right"
 }
