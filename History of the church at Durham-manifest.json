@@ -694,10 +694,21 @@
         "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/canvas/t1t7h149q25p",
         "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/canvas/t1t5d86p053m",
         "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/canvas/t1t9019s276n"
+      ],
+	"ranges": [
+        "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/range/t1m4q77fr328_testchapter1_subsection"
       ]
     },
 
-
+{
+      "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/range/t1m4q77fr328_testchapter1_subsection",
+      "@type": "sc:Range",
+      "label": "subsection",
+      "canvases": [
+        "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/canvas/t1t5d86p053m",
+        "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/canvas/t1t9019s276n"
+      ]
+    },
 
     {
       "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/range/t1m4q77fr328_t2txp68kg364",
