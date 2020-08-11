@@ -750,8 +750,8 @@
           "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/canvas/t1tr494vk516",
           "@type": "sc:Canvas",
           "label": "front cover",
-          "width": 5099,
-          "height": 5550,
+          "width": 12000,
+          "height":12000,
           "images": [
             {
               "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/annotation/canvas_t1tr494vk516",
@@ -761,8 +761,8 @@
                 "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/m4/q7/t1m4q77fr328/fa49ca0b558c4c564cc584532c28c68a.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "width": 5099,
-                "height": 5550,
+                "width": 12000,
+                "height": 12000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/m4/q7/t1m4q77fr328/fa49ca0b558c4c564cc584532c28c68a.jp2",
